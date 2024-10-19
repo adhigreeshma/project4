@@ -1,0 +1,59 @@
+/* sec3 */
+.inbox1{
+    background-image: url(OBAMA1.webp);
+    height: 500px;
+    
+    background-size: cover;
+    padding: 100px 10px;
+     
+    
+    /* margin-top: 10px; */
+}
+.inbox2{
+    background-color: rgba(0, 0, 255, 0.425);
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    padding: 20px 0px;
+     
+}
+.line1{
+    height: 2px;
+    background-color: brown;
+    width: 100%;
+}
+.b5{
+    box-shadow: 0px 5px 5px black;
+    padding: 10px;
+}
+.span{
+    font-size: 10px;
+    color: gray;
+}
+.span1{
+    color: gray;
+}
+
+
+
+<ul class="navbar-nav">
+            <li class="nav-item dropend">
+              <a  class="dropdown-toggle" data-bs-toggle="dropdown" style="text-decoration: none;">
+               contact us
+              </a>
+              
+            </li>
+          
+            <li class="nav-item dropdown">
+              <a class=" dropdown-toggle" data-bs-toggle="dropdown" style="text-decoration: none;">
+                Gmail updates
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Link 1</a></li>
+                <li><a class="dropdown-item" href="#">Link 2</a></li>
+                <li><a class="dropdown-item" href="#">Link 3</a></li>
+              </ul>
+            </li>
+          </ul>
+          <img src="flag.jpg" alt="" height="20px">
+        
